@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'account',
+    'images',
+    'sorl-thumbnail'
 ]
 
 MIDDLEWARE = [
